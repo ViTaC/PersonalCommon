@@ -1,4 +1,4 @@
 
-public class MyTest {
-
+public class MTest {
+	ssss
 }
