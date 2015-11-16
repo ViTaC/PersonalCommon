@@ -1,0 +1,13 @@
+<project>  
+    <modelVersion>4.0.0</modelVersion>  
+    <groupId>bnuz-PersonalCommon</groupId>  
+    <artifactId>PersonalCommon-Service</artifactId>  
+    <version>1.0.0-SNAPSHOT</version>  
+    <packaging> pom </packaging>  
+    <name>PersonalCommon Service</name>  
+     <modules>  
+        <module>Actmags-Service</module>  
+        <module>OSeabuy-Service</module>
+		<module>Common-Util</module>  
+     </modules>  
+</project>  
